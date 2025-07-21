@@ -4,7 +4,7 @@
     padding: 0;
 }
 .main{
-    background-image: url("Netflix/images/background.png");
+    background-image: url("./background.png");
     height: 70vh;
     background-position: center center;
     background-repeat: no-repeat;
